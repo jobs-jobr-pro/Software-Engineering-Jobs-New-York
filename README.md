@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in New York — 2026
 
-<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in New York** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ripple](https://rippleengineeringsoftware.com)** | **[Manager, Software Engineering](https://jobr.pro/job/40870165/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY, United States | On Site | May 20 |
 | **[Confluent](https://confluent.io)** | **[Senior Software Engineer II](https://jobr.pro/job/40866411/senior-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, New York | Remote | May 20 |
 | **[Traba](https://traba.work)** | **[Staff Software Engineer (Agents)](https://jobr.pro/job/40857782/staff-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 19 |
 | **[Traba](https://traba.work)** | **[Senior Software Engineer (Agents)](https://jobr.pro/job/40857781/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 19 |
@@ -51,13 +52,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[XTX Markets](https://xtxmarkets.com)** | **[Software Engineer - Trading System Developer (2026)](https://jobr.pro/job/40782554/software-engineer-trading-system-developer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York | On Site | May 14 |
 | **[Datadog](https://datadoghq.com)** | **[Senior Software Engineer - Analytics Data Platform Lakehouse](https://jobr.pro/job/40783168/senior-software-engineer-analytics-data-platform-lakehouse?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, New York, USA | On Site | May 14 |
 | **[The New York Times](https://nytimes.com)** | **[Software Engineer, News Multimodal](https://jobr.pro/job/40783097/software-engineer-news-multimodal?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY | On Site | May 14 |
-| **[Thanks](https://thanks.co)** | **[Senior Software Engineer](https://jobr.pro/job/40794697/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, New York, United States | On Site | May 14 |
-| **[Harvey](https://www.harvey.ai/)** | **[Senior Software Engineer, Full Stack](https://jobr.pro/job/40774481/senior-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York | On Site | May 13 |
-| **[Ramp](https://ramp.com)** | **[Senior Software Engineer \| GTM Platform, Backend](https://jobr.pro/job/40776899/senior-software-engineer-gtm-platform-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY (HQ) | Remote | May 13 |
 
 ---
 
-**Current Stats:** 41 jobs | 34% remote | 30 companies | Avg salary: 5.948725641031795e+228k  
+**Current Stats:** 39 jobs | 33% remote | 29 companies | Avg salary: 6.315795578955264e+222k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
