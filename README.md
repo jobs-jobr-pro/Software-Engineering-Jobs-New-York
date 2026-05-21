@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in New York — 2026
 
-<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in New York** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DoorDash USA]()** | **[Principle Software Engineer - Ads](https://jobr.pro/job/40875961/principle-software-engineer-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY; San Francisco, CA; Sunnyvale, CA | On Site | May 20 |
+| **[Alloy](https://alloy.com)** | **[Senior Software Engineer, Frontend Platform](https://jobr.pro/job/40874931/senior-software-engineer-frontend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 20 |
+| **[David Energy](http://davidenergy.com)** | **[Senior Software Engineer, Energy Systems](https://jobr.pro/job/40875308/senior-software-engineer-energy-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | Remote | May 20 |
 | **[Ripple](https://rippleengineeringsoftware.com)** | **[Manager, Software Engineering](https://jobr.pro/job/40870165/manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY, United States | On Site | May 20 |
+| **[Wealth.com](https://wealth.com)** | **[Senior Software Engineer, Applied AI](https://jobr.pro/job/40874745/senior-software-engineer-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | Hybrid, New York, Tempe, San Francisco | Remote | May 20 |
 | **[Confluent](https://confluent.io)** | **[Senior Software Engineer II](https://jobr.pro/job/40866411/senior-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, New York | Remote | May 20 |
 | **[Traba](https://traba.work)** | **[Staff Software Engineer (Agents)](https://jobr.pro/job/40857782/staff-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 19 |
 | **[Traba](https://traba.work)** | **[Senior Software Engineer (Agents)](https://jobr.pro/job/40857781/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 19 |
@@ -55,7 +59,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 33% remote | 29 companies | Avg salary: 6.315795578955264e+222k  
+**Current Stats:** 43 jobs | 35% remote | 33 companies | Avg salary: 9.404766880957857e+246k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
