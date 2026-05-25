@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in New York — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in New York** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny).
@@ -62,11 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GovWell](http://www.govwell.com/)** | **[Full-Stack Software Engineer](https://jobr.pro/job/40835923/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY | On Site | May 18 |
 | **[Finch Legal](https://finchlegal.com)** | **[Software Engineer](https://jobr.pro/job/40841857/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | Remote | May 18 |
 | **[WRITER](http://www.beitske.nl)** | **[Software engineer, agents](https://jobr.pro/job/40847666/software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | Remote | May 18 |
-| **[Traba](https://traba.work)** | **[Staff Software Engineer](https://jobr.pro/job/40833746/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 18 |
+| **[Evvy](https://www.evvy.com)** | **[Senior Software Engineer](https://jobr.pro/job/40920030/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 40 companies | Avg salary: 4.888894333337778e+264k  
+**Current Stats:** 50 jobs | 26% remote | 41 companies | Avg salary: 5.000005568186364e+258k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
