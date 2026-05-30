@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in New York — 2026
 
-<sub><small>Last updated: May 29, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in New York** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny).
@@ -13,7 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Robinhood](https://robinhood.com)** | **[Software Engineer, Trade PMR](https://jobr.pro/job/40986870/software-engineer-trade-pmr?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY | On Site | May 30 |
+| **[Decagon](https://decagon.ai/)** | **[Senior Software Engineer, Developer Platform](https://jobr.pro/job/40988291/senior-software-engineer-developer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 29 |
+| **[Decagon](https://decagon.ai/)** | **[Senior Software Engineer, Data Infrastructure](https://jobr.pro/job/40988290/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 29 |
+| **[Datadog](https://datadoghq.com)** | **[Senior Software Engineer - Infrastructure R&D](https://jobr.pro/job/40984267/senior-software-engineer-infrastructure-rd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | Denver, Colorado, USA; New York, New York, USA | On Site | May 29 |
+| **[Datadog](https://datadoghq.com)** | **[Senior Software Engineer - Environments Accelerator](https://jobr.pro/job/40984266/senior-software-engineer-environments-accelerator?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | Denver, Colorado, USA; New York, New York, USA | On Site | May 29 |
+| **[Decagon](https://decagon.ai/)** | **[Senior Software Engineer, Core Infrastructure](https://jobr.pro/job/40988289/senior-software-engineer-core-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 29 |
+| **[Schonfeld](https://schonfeldbrickman.com)** | **[Software Engineer - Business Analytics](https://jobr.pro/job/40985848/software-engineer-business-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, New York, United States | On Site | May 29 |
+| **[Addepar](https://addepar.com)** | **[Staff Backend Software Engineer - Platform Integration](https://jobr.pro/job/40984392/staff-backend-software-engineer-platform-integration?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY | On Site | May 29 |
+| **[Carbon Based Technology Corporation](https://mecka.ai)** | **[Software Engineer, Infrastructure & Data](https://jobr.pro/job/40979082/software-engineer-infrastructure-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York | On Site | May 29 |
+| **[Impiricus](https://impiricus.com)** | **[Senior Software Engineer (Full-stack)](https://jobr.pro/job/40984487/senior-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | Atlanta, GA \| NYC, NY \| Remote, USA | Remote | May 29 |
 | **[Carbon Based Technology Corporation](https://mecka.ai)** | **[Software Engineer, Applications](https://jobr.pro/job/40970097/software-engineer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York | On Site | May 28 |
+| **[Forge Global](https://forgeglobal.com)** | **[Senior Software Engineer (Tech Lead), Customer Domain Engineering](https://jobr.pro/job/40980575/senior-software-engineer-tech-lead-customer-domain-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, New York, United States | On Site | May 28 |
+| **[Forge Global](https://forgeglobal.com)** | **[Senior Software Engineer II of Trading](https://jobr.pro/job/40980572/senior-software-engineer-ii-of-trading?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, New York, United States | On Site | May 28 |
 | **[The New York Times](https://nytimes.com)** | **[Senior Software Engineer, Community](https://jobr.pro/job/40968660/senior-software-engineer-community?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY | On Site | May 28 |
 | **[Gong.io](https://www.gong.io)** | **[Senior Software Engineer](https://jobr.pro/job/40965472/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 28 |
 | **[Arlo](https://arlohotels.com)** | **[Senior Software Engineer](https://jobr.pro/job/40977067/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 28 |
@@ -51,22 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Traba](https://trabajando.cl)** | **[Senior Software Engineer (AI Agents)](https://jobr.pro/job/40935509/senior-software-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
 | **[Traba](https://trabajando.cl)** | **[Staff Software Engineer (Generalist)](https://jobr.pro/job/40935508/staff-software-engineer-generalist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
 | **[Traba](https://trabajando.cl)** | **[Senior Software Engineer (Generalist)](https://jobr.pro/job/40935507/senior-software-engineer-generalist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
-| **[Traba](https://trabajando.cl)** | **[Software Engineer (Generalist)](https://jobr.pro/job/40935506/software-engineer-generalist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
-| **[Sigma Computing](https://www.sigmacomputing.com)** | **[Senior Software Engineer - Observability and Reliability](https://jobr.pro/job/40926320/senior-software-engineer-observability-and-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 25 |
-| **[Sigma Computing](https://www.sigmacomputing.com)** | **[Staff Software Engineer - Fullstack](https://jobr.pro/job/40926327/staff-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 25 |
-| **[Sigma Computing](https://www.sigmacomputing.com)** | **[Senior Software Engineer - Fullstack](https://jobr.pro/job/40926318/senior-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 25 |
-| **[Sigma Computing](https://www.sigmacomputing.com)** | **[Staff Software Engineer - Backend](https://jobr.pro/job/40926323/staff-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 25 |
-| **[Sigma Computing](https://www.sigmacomputing.com)** | **[Senior Software Engineer - Backend](https://jobr.pro/job/40926315/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 25 |
-| **[Melius](https://www.melius.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40915876/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 24 |
-| **[Braze](https://www.braze.com)** | **[Senior Software Engineer I, FIX](https://jobr.pro/job/40903811/senior-software-engineer-i-fix?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 22 |
-| **[ConductorAI](https://www.conductorai.co/)** | **[Full Stack Software Engineer](https://jobr.pro/job/40904001/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | Remote | May 22 |
-| **[Ripple](https://ripplematch.com)** | **[Staff Software Engineer, Liquidity Management](https://jobr.pro/job/40904732/staff-software-engineer-liquidity-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY, United States | On Site | May 22 |
-| **[Ripple](https://ripplematch.com)** | **[Senior Software Engineer, Liquidity Management](https://jobr.pro/job/40904731/senior-software-engineer-liquidity-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY, United States | On Site | May 22 |
-| **[Watershed](https://watershed.net)** | **[Staff software engineer, front end](https://jobr.pro/job/40908970/staff-software-engineer-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 32 companies | Avg salary: 4.204549090914545e+258k  
+**Current Stats:** 50 jobs | 18% remote | 33 companies | Avg salary: 4.333342222231111e+264k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
