@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in New York — 2026
 
-<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in New York** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny).
@@ -29,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The New York Times](https://nytimes.com)** | **[Senior Software Engineer, Community](https://jobr.pro/job/40968660/senior-software-engineer-community?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York, NY | On Site | May 28 |
 | **[Gong.io](https://www.gong.io)** | **[Senior Software Engineer](https://jobr.pro/job/40965472/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 28 |
 | **[Arlo](https://arlohotels.com)** | **[Senior Software Engineer](https://jobr.pro/job/40977067/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 28 |
+| **[LM Studio](https://lmstudio.ai/)** | **[Frontend Software Engineer, LM Studio app](https://jobr.pro/job/40995096/frontend-software-engineer-lm-studio-app?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 28 |
 | **[Compass](https://www.compass.com/)** | **[Software Engineer II](https://jobr.pro/job/40967902/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 28 |
 | **[Anthropic](https://anthropics.com)** | **[Software Engineer, Claude Design](https://jobr.pro/job/40957238/software-engineer-claude-design?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | San Francisco, CA \| New York City, NY \| Seattle, WA | On Site | May 28 |
 | **[Shade.inc](https://shade.inc/)** | **[Junior Software Engineer](https://jobr.pro/job/40959438/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City | On Site | May 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Traba](https://trabajando.cl)** | **[Staff Software Engineer (AI Agents)](https://jobr.pro/job/40935510/staff-software-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
 | **[Traba](https://trabajando.cl)** | **[Senior Software Engineer (AI Agents)](https://jobr.pro/job/40935509/senior-software-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
 | **[Traba](https://trabajando.cl)** | **[Staff Software Engineer (Generalist)](https://jobr.pro/job/40935508/staff-software-engineer-generalist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
-| **[Traba](https://trabajando.cl)** | **[Senior Software Engineer (Generalist)](https://jobr.pro/job/40935507/senior-software-engineer-generalist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-ny)** | New York City, NY | On Site | May 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 33 companies | Avg salary: 4.333342222231111e+264k  
+**Current Stats:** 50 jobs | 18% remote | 34 companies | Avg salary: 4.333342222231111e+264k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
